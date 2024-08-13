@@ -11,15 +11,16 @@ $total=$suma-$descuento;
 
 echo"productos:";
 echo"$Producto1,$Producto2,$Producto3";
-echo<'/br'>;
+echo "</br>";
 
-echo"SUMA DE PRECIOS:  "$suma
-echo<'/br'>;
+echo"SUMA DE PRECIOS:  ".$suma;
+echo"</br>";
 
-echo"DESCUENTO: "$descuento;
-echo  <'/br'>;
+echo"DESCUENTO: ".$descuento;
+echo "</br>";
 
-echo"TOTAL:  "$total;
-echo <'/br'>;
+echo"TOTAL:  ".$total;
+echo "</br>";
 ?>
+
 
